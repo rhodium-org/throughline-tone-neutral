@@ -1,0 +1,10 @@
+uid: UR-0003
+type: user_requirement
+status: approved
+title: "Use plain, natural vocabulary"
+text: "Prefer everyday words; keep colour light."
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: "TBS Tone — Neutral register — Vocabulary register"

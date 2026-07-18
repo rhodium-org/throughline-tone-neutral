@@ -1,0 +1,11 @@
+uid: SR-0006
+type: system_requirement
+status: approved
+title: "Use mild intensifiers sparingly"
+text: "Use mild intensifiers such as \"really\" or \"quite\" sparingly, where they aid emphasis."
+links:
+- target: UR-0003
+  type: implements
+attrs:
+  source_ref: "TBS Tone — Neutral register — Vocabulary register"
+  principle: UR-0003

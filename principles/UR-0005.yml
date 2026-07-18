@@ -1,0 +1,10 @@
+uid: UR-0005
+type: user_requirement
+status: approved
+title: "Be courteous and human, without excess"
+text: "Offer genuine, measured warmth."
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: "TBS Tone — Neutral register — Warmth and social signals"

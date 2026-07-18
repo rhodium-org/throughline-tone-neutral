@@ -1,0 +1,11 @@
+uid: SR-0005
+type: system_requirement
+status: approved
+title: "Use everyday words; avoid heavy slang and dialect"
+text: "Everyday words are welcome; avoid heavy slang and dialect."
+links:
+- target: UR-0003
+  type: implements
+attrs:
+  source_ref: "TBS Tone — Neutral register — Vocabulary register"
+  principle: UR-0003

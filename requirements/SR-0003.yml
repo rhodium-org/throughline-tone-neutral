@@ -1,0 +1,11 @@
+uid: SR-0003
+type: system_requirement
+status: approved
+title: "Keep any greeting simple"
+text: "Where a greeting is used, keep it simple, for example \"Hello\" or \"Hi [First name]\"."
+links:
+- target: UR-0002
+  type: implements
+attrs:
+  source_ref: "TBS Tone — Neutral register — Address and greeting"
+  principle: UR-0002

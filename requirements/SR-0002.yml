@@ -1,0 +1,11 @@
+uid: SR-0002
+type: system_requirement
+status: approved
+title: "Avoid heavy or dialectal contractions"
+text: "Avoid heavy or dialectal contractions such as \"gonna\", \"ain't\" and \"'em\"."
+links:
+- target: UR-0001
+  type: implements
+attrs:
+  source_ref: "TBS Tone — Neutral register — Contractions"
+  principle: UR-0001

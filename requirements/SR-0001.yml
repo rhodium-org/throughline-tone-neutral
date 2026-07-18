@@ -1,0 +1,11 @@
+uid: SR-0001
+type: system_requirement
+status: approved
+title: "Use common contractions to sound natural"
+text: "Use common contractions such as \"you'll\", \"we're\" and \"don't\" so the writing sounds natural."
+links:
+- target: UR-0001
+  type: implements
+attrs:
+  source_ref: "TBS Tone — Neutral register — Contractions"
+  principle: UR-0001

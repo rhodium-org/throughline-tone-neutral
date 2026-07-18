@@ -1,0 +1,11 @@
+uid: SR-0010
+type: system_requirement
+status: approved
+title: "Keep warmth light and inclusive"
+text: "Light, inclusive warmth is fine; avoid jokes that could misfire."
+links:
+- target: UR-0005
+  type: implements
+attrs:
+  source_ref: "TBS Tone — Neutral register — Warmth and social signals"
+  principle: UR-0005
