@@ -1,0 +1,11 @@
+uid: SR-0011
+type: system_requirement
+status: approved
+title: "Keep any sign-off simple and courteous"
+text: "Where the medium closes with a sign-off, keep it simple and courteous, for example \"Best wishes\", \"Kind regards\" or \"Thanks\", avoiding both stiff formality (\"Yours faithfully\") and over-familiarity (\"Cheers\", \"Love\"). Whether a sign-off exists at all is a medium decision; this rule governs only its register."
+links:
+- target: UR-0002
+  type: implements
+attrs:
+  source_ref: "TBS Tone — Neutral register — Address and greeting"
+  principle: UR-0002
