@@ -1,3 +1,4 @@
 prefix: UR
 digits: 4
 title: Neutral-register principles
+type: user_requirement
