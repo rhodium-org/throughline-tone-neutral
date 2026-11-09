@@ -1,10 +1,11 @@
 uid: UR-0004
 type: user_requirement
-status: approved
-title: "Be clear and reasonably direct"
-text: "Give plain instructions; soften only where it helps."
+status: proposed
+title: Be clear and reasonably direct
+text: Give plain instructions; soften only where it helps.
+normative: true
 links:
 - target: INT-0001
   type: derives_from
 attrs:
-  source_ref: "TBS Tone — Neutral register — Directness"
+  source_ref: TBS Tone — Neutral register — Directness

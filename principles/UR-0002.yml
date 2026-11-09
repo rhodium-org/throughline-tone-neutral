@@ -1,10 +1,11 @@
 uid: UR-0002
 type: user_requirement
-status: approved
-title: "Greet the reader courteously and plainly"
-text: "Be friendly and clear without over-familiarity."
+status: proposed
+title: Greet the reader courteously and plainly
+text: Be friendly and clear without over-familiarity.
+normative: true
 links:
 - target: INT-0001
   type: derives_from
 attrs:
-  source_ref: "TBS Tone — Neutral register — Address and greeting"
+  source_ref: TBS Tone — Neutral register — Address and greeting
