@@ -24,7 +24,7 @@ It carries
 ## Purpose
 
 <!-- tl:item INT-0001 -->
-**INT-0001 — Text sounds consistently neutral and approachable** — `intent`, status `approved`
+**INT-0001 — Text sounds consistently neutral and approachable** — `intent`, status `proposed`
 
 > A neutral register is professional but human: clear, courteous and unfussy. It is the default for most business, service and public-facing writing, where the reader wants to be treated as a competent adult without either stiffness or over-familiarity. This axis governs register — how the writing sounds relative to the reader relationship — not readability, spelling or punctuation, each of which is a separate source. Register variants are mutually exclusive: a consumer composes exactly one of the formal, neutral or informal sibling sources.
 
@@ -34,7 +34,7 @@ It carries
 ## 1. Use everyday contractions, but not colloquial ones
 
 <!-- tl:item UR-0001 -->
-**UR-0001 — Use everyday contractions, but not colloquial ones** — `user_requirement`, status `approved`
+**UR-0001 — Use everyday contractions, but not colloquial ones** — `user_requirement`, status `proposed`
 
 > Contract as people naturally do, without slipping into dialect.
 
@@ -46,14 +46,14 @@ It carries
 <!-- tl:table attrs.get('principle') == 'UR-0001' -->
 | UID | Type | Status | Title |
 |---|---|---|---|
-| SR-0001 | system_requirement | approved | Use common contractions to sound natural |
-| SR-0002 | system_requirement | approved | Avoid heavy or dialectal contractions |
+| SR-0001 | system_requirement | proposed | Use common contractions to sound natural |
+| SR-0002 | system_requirement | proposed | Avoid heavy or dialectal contractions |
 <!-- tl:end -->
 
 ## 2. Greet the reader courteously and plainly
 
 <!-- tl:item UR-0002 -->
-**UR-0002 — Greet the reader courteously and plainly** — `user_requirement`, status `approved`
+**UR-0002 — Greet the reader courteously and plainly** — `user_requirement`, status `proposed`
 
 > Be friendly and clear without over-familiarity.
 
@@ -65,15 +65,15 @@ It carries
 <!-- tl:table attrs.get('principle') == 'UR-0002' -->
 | UID | Type | Status | Title |
 |---|---|---|---|
-| SR-0003 | system_requirement | approved | Keep any greeting simple |
-| SR-0004 | system_requirement | approved | Use the reader's first name sparingly |
-| SR-0011 | system_requirement | approved | Keep any sign-off simple and courteous |
+| SR-0003 | system_requirement | proposed | Keep any greeting simple |
+| SR-0004 | system_requirement | proposed | Use the reader's first name sparingly |
+| SR-0011 | system_requirement | proposed | Keep any sign-off simple and courteous |
 <!-- tl:end -->
 
 ## 3. Use plain, natural vocabulary
 
 <!-- tl:item UR-0003 -->
-**UR-0003 — Use plain, natural vocabulary** — `user_requirement`, status `approved`
+**UR-0003 — Use plain, natural vocabulary** — `user_requirement`, status `proposed`
 
 > Prefer everyday words; keep colour light.
 
@@ -85,14 +85,14 @@ It carries
 <!-- tl:table attrs.get('principle') == 'UR-0003' -->
 | UID | Type | Status | Title |
 |---|---|---|---|
-| SR-0005 | system_requirement | approved | Use everyday words; avoid heavy slang and dialect |
-| SR-0006 | system_requirement | approved | Use mild intensifiers sparingly |
+| SR-0005 | system_requirement | proposed | Use everyday words; avoid heavy slang and dialect |
+| SR-0006 | system_requirement | proposed | Use mild intensifiers sparingly |
 <!-- tl:end -->
 
 ## 4. Be clear and reasonably direct
 
 <!-- tl:item UR-0004 -->
-**UR-0004 — Be clear and reasonably direct** — `user_requirement`, status `approved`
+**UR-0004 — Be clear and reasonably direct** — `user_requirement`, status `proposed`
 
 > Give plain instructions; soften only where it helps.
 
@@ -104,14 +104,14 @@ It carries
 <!-- tl:table attrs.get('principle') == 'UR-0004' -->
 | UID | Type | Status | Title |
 |---|---|---|---|
-| SR-0007 | system_requirement | approved | Give instructions as plain imperatives |
-| SR-0008 | system_requirement | approved | Soften only where it genuinely helps |
+| SR-0007 | system_requirement | proposed | Give instructions as plain imperatives |
+| SR-0008 | system_requirement | proposed | Soften only where it genuinely helps |
 <!-- tl:end -->
 
 ## 5. Be courteous and human, without excess
 
 <!-- tl:item UR-0005 -->
-**UR-0005 — Be courteous and human, without excess** — `user_requirement`, status `approved`
+**UR-0005 — Be courteous and human, without excess** — `user_requirement`, status `proposed`
 
 > Offer genuine, measured warmth.
 
@@ -123,6 +123,6 @@ It carries
 <!-- tl:table attrs.get('principle') == 'UR-0005' -->
 | UID | Type | Status | Title |
 |---|---|---|---|
-| SR-0009 | system_requirement | approved | Offer genuine but measured courtesy |
-| SR-0010 | system_requirement | approved | Keep warmth light and inclusive |
+| SR-0009 | system_requirement | proposed | Offer genuine but measured courtesy |
+| SR-0010 | system_requirement | proposed | Keep warmth light and inclusive |
 <!-- tl:end -->
